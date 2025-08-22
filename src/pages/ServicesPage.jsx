@@ -2,6 +2,7 @@
 import React from 'react';
 import PageHero from '../components/Services/PageHero';
 import MainFeatures from '../components/Services/MainFeatures';
+import Footer from '../components/HomePage/Footer';
 
 const ServicesPage = () => {
   return (
@@ -20,6 +21,7 @@ const ServicesPage = () => {
         </div>
       </section>
       <MainFeatures/>
+      <Footer/>
     </div>
   );
 };

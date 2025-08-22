@@ -1,6 +1,7 @@
 // File: src/pages/BlogPage.jsx
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import Footer from '../components/HomePage/Footer';
 // We will create these components in the next steps
 // import BlogHero from '../components/BlogHero';
 // import BlogPostCard from '../components/BlogPostCard';
@@ -86,6 +87,7 @@ const BlogPage = () => {
           ))}
         </div>
       </div>
+      <Footer/>
     </div>
   );
 };

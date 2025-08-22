@@ -44,9 +44,9 @@ const Footer = () => {
                 Your trusted partner for seamless visa processing and relocation guidance. We simplify the complexities so you can focus on your journey.
               </p>
               <ul className="space-y-3">
-                <li className="flex items-center"><Phone className="w-5 h-5 mr-3 text-white" /> +1 (123) 456-7890</li>
-                <li className="flex items-center"><Mail className="w-5 h-5 mr-3 text-white" /> info@asia48.com</li>
-                <li className="flex items-center"><MapPin className="w-5 h-5 mr-3 text-white" /> 123 Visa Lane, Global City</li>
+                <li className="flex items-center"><Phone className="w-5 h-5 mr-3 text-white" /> 8476979157</li>
+                <li className="flex items-center"><Mail className="w-5 h-5 mr-3 text-white" />snehasaxena152003@gmail.com</li>
+                <li className="flex items-center"><MapPin className="w-5 h-5 mr-3 text-white" />Gurgaon, Haryana</li>
               </ul>
               <div className="flex space-x-4 pt-2">
                 <a href="#" className="text-gray-400 hover:text-white"><Facebook /></a>

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import china from '../../assets/images/china.jpg';
 import hongkong from '../../assets/images/hongkong.jpg';
 import india from '../../assets/images/india.jpg';
-import indonesia from '../../assets/images/indonesia.jpg';
+import indonesia from '../../assets/images/Indonesia.jpg';
 import japan from '../../assets/images/japan.jpg';
 import malaysia from '../../assets/images/malaysia.jpg';
 import skorea from '../../assets/images/s.korea.jpg';

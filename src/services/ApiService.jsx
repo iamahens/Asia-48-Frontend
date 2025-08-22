@@ -54,6 +54,9 @@ export const getPlannerTasks = (country, courseLevel) => {
   return apiClient.get(`/planner/tasks?country=${country}&courseLevel=${courseLevel}`);
 };
 
+export const submitContactForm = (formData) => {
+  return apiClient.post('/contact', formData);
+};
 
 
 export default apiClient;
